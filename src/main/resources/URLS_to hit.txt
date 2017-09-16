@@ -1,0 +1,5 @@
+http://localhost:8082/das-boot/v1/shipwrecks/
+
+http://localhost:8082/das-boot/v1/shipwrecks/1
+
+http://localhost:8082/das-boot/v1/customers
