@@ -15,7 +15,7 @@ import com.boot.model.Shipwreck;
 import com.boot.repository.ShipwreckRepository;
 
 @RestController
-@RequestMapping("/v1")
+@RequestMapping("/v1/das-boot")
 public class ShipwreckController {
 
 	@Autowired

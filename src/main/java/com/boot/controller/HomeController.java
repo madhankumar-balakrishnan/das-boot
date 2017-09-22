@@ -11,7 +11,7 @@ import com.boot.model.Customer;
 import com.boot.repository.CustomerRepository;
 
 @RestController
-@RequestMapping("/v1")
+@RequestMapping("/v1/das-boot")
 public class HomeController {
 
 	@Autowired
